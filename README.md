@@ -15,6 +15,6 @@ Make terminal commands' output colorful
 2. add 'PATH=$PATH:{directory address}' to .bashrc or .zshrc
 3. enjoy :)
 
-#Usage
+# Usage
 
 $ {command} | rainbow

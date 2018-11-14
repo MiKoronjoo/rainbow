@@ -12,5 +12,9 @@ Make terminal commands' output colorful
 # Installation
 
 1. clone repository
-2. add 'PATH=$PATH:{file directory address}' to .bashrc or .zshrc
+2. add 'PATH=$PATH:{directory address}' to .bashrc or .zshrc
 3. enjoy :)
+
+#Usage
+
+$ {command} | rainbow

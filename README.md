@@ -11,8 +11,8 @@ Make terminal commands' output colorful
 
 # Installation
 
-1. clone repository
-2. add 'PATH=$PATH:{directory address}' to .bashrc or .zshrc
+1. clone the repository
+2. add rainbow to /usr/bin
 3. enjoy :)
 
 # Usage

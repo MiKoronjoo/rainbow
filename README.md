@@ -11,10 +11,14 @@ Make terminal commands' output colorful
 
 # Installation
 
-1. clone the repository
+1. clone the repository:
+`$ git clone https://github.com/MiKoronjoo/rainbow.git`
 2. add rainbow to /usr/bin
-3. enjoy :)
+`$ cp ./rainbow/rainbow /usr/bin/rainbow`
+3. change the permissions:
+`$ sudo chmod 777 /usr/bin/rainbow`
+4. enjoy :)
 
 # Usage
 
-$ {command} | rainbow
+`$ {command} | rainbow`
